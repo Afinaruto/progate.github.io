@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+.top-wrapper {
+  background-color: #f9fbfe;
+  background-image: url(https://lh3.googleusercontent.com/proxy/Cz-SYiGPQml4iP1aHUwUkYMUovpQXSJ1Nz3XPI4Isi9UJ3ZGIoq1USI4rkBo54BntzB_7lr1uhcjYY0In7o_h-5CWC15qLxzPqtLg_WU9BFaxYQjpwzVg_3FnSOR8uvx828-aJEjHNDUTIRlRPrtk6iaD0L5_aFFkrp_LP02zWW_Jl43ukvhPbdL-ofQjw);
+  background-size: cover;
+  color: white;
+  height: 150px;
+  text-align: left;
+  padding: 180px 100px;
+}
+
+.container {
+  display: block;
+  opacity: 0.7;
+  letter-spacing: 5px;
+  line-height: normal;
+  padding: auto;
+  margin-bottom: 200px;
+}
+
+.container h2 {
+  color: #2f3542;
+}
+
+.contents {
+  height: 500px;
+  margin-top: 100px;
+}
+
+.section-title {
+  color: #2f3542;
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
